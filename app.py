@@ -409,7 +409,7 @@ elif page == "Analysis & Reports":
 
 # Footer
 st.sidebar.markdown("---")
-st.sidebar.info(
-    "This is a demonstration of bank statement reconciliation using Streamlit. "
-    "In a production environment, this would integrate with OCR and more advanced matching algorithms."
-)
+# st.sidebar.info(
+#     "This is a demonstration of bank statement reconciliation using Streamlit. "
+#     "In a production environment, this would integrate with OCR and more advanced matching algorithms."
+# )
